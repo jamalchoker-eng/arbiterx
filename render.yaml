@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: arbiterx
+    runtime: python
+    plan: starter
+    buildCommand: pip install -r requirements.txt
+    startCommand: python app.py
+    healthCheckPath: /healthz
+    envVars:
+      - key: YOUTUBE_API_KEY
+        sync: false

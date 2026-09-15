@@ -1,0 +1,18 @@
+{
+  "google_trends_region": "AU",
+  "lookback_days": 14,
+  "watchlist": {
+    "SHA": "Shape Australia",
+    "MLX": "Metals X",
+    "BGD": "Barton Gold",
+    "GNP": "GenusPlus",
+    "SRG": "SRG Global",
+    "VNT": "Ventia",
+    "SYL": "Symal Group",
+    "POL": "Polymetals Resources",
+    "DTR": "Dateline Resources",
+    "EQR": "EQ Resources",
+    "OBM": "Ora Banda Mining",
+    "VTX": "Vertex Minerals"
+  }
+}
